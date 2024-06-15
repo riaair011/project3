@@ -1,7 +1,12 @@
 # Wine Analysis
 ---
-![pixabay.img](C:\Users\avinash\Desktop\AVI\sparkling-wine-6786251_960_720.jpg)
 
+### WorkFlow
+<img width="1339" alt="diagram" src="https://github.com/riaair011/project3/assets/156638175/da8cf52c-35d0-4993-9c3d-be0a35b066e0">
+
+
+
+---
 ### Background
 
 
