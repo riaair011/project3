@@ -9,6 +9,11 @@
 ---
 ### Background
 
+## Data Extraction
+In this stage of our project we extracted our original CSV file and created a dataframe. We then used a for loop to create a list of regions and placed them in a dataframe that we would then feed into our API. We first used OpenWeatherMap API to retrieve latitude and longitude coordinates for each of our regions. We  then added those latitude and longitude values to our dataframe, and used MeteoStat API to find average temperature and precipitation statistics for each listed lat/lng coordinate. These dataframes were then saved as CSV files for futher processing.
+
+## Data Transformation
+We found that our initial dataframe had a number of special characters, so we replaced all special characters with empty string using regex matching. We then removed all null values from our data frame. We also created unique ID's for each region and wine title entry, that would be necessary for SQL storage. We also converted data types to match our SQL ERD. Lastly we reordered each data frame to match our SQL ERD. 
 
 
 ## Data Modeling
