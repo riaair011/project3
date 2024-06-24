@@ -61,7 +61,9 @@ Using our ERD, we then created all three tables directly in PostgreSQL by export
 
 ## References 
 •	Wine Review dataset from Kaggle: https://www.kaggle.com/datasets/zynicide/wine-reviews
+
 •	Open WeatherMap API: https://openweathermap.org/api
+
 •	MeteoStat Python Library: https://openweathermap.org/api](https://dev.meteostat.net/python/
 
 
