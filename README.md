@@ -2,7 +2,7 @@
 ---
 
 ### WorkFlow
-<img width="1339" alt="diagram" src="https://github.com/riaair011/project3/assets/156638175/da8cf52c-35d0-4993-9c3d-be0a35b066e0">
+<img width="1339" alt="diagram" src="https://github.com/riaair011/project3/blob/main/Screenshot%202024-06-24%20at%203.40.51%E2%80%AFPM.png">
 
 
 
